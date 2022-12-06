@@ -1,8 +1,8 @@
-type Mini = {
+type Book = {
   fileName: string;
   name: string;
-  count: number;
-  creatureType: string;
+  system: string;
+  type: string;
 }
 
-export type { Mini }
+export type { Book }

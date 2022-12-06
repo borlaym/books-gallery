@@ -1,12 +1,12 @@
 import React, { useCallback, useState } from 'react';
 import Tile from './components/Tile';
 import data from './data.json'
-import { Mini } from './types';
+import { Book } from './types';
 import styled from '@emotion/styled'
 
 const Container = styled.div`
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   flex-wrap: wrap;
   justify-content: center;
 `
@@ -46,7 +46,7 @@ const FullImage = styled.div`
 
 function App() {
   const [query, setQuery] = useState("")
-  const [fullImage, setFullImage] = useState<Mini | null>(null)
+  const [fullImage, setFullImage] = useState<Book | null>(null)
 
   const handleInputChange = useCallback((event: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(event.target.value)
@@ -76,7 +76,7 @@ function App() {
     <div>
       <Search type="search" value={query} onChange={handleInputChange} placeholder="Search..." />
       <Container>
-        {dataToShow.map((mini: Mini) => (
+        {dataToShow.map((mini: Book) => (
           <Tile
             mini={mini}
             key={mini.fileName}
@@ -86,7 +86,7 @@ function App() {
       </Container>
       {fullImage && (
         <FullImage onClick={handleCancel}>
-          <img src={`https://res.cloudinary.com/adventcalendar/image/upload/miniatures/${fullImage.fileName}`} alt={fullImage.fileName} />
+          <img src={`https://res.cloudinary.com/adventcalendar/image/upload/books/${fullImage.fileName}`} alt={fullImage.fileName} />
         </FullImage>
       )}
     </div>

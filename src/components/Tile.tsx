@@ -1,40 +1,55 @@
 import React, { useCallback } from 'react'
-import { Mini } from '../types'
+import { Book } from '../types'
 import styled from '@emotion/styled'
 
 type Props = {
-  mini: Mini;
+  mini: Book;
   onClick: (fileName: string) => void;
 }
 
 const TileContainer = styled.div`
   width: 200px;
-  height: 200px;
   margin: 10px;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  box-sizing: border-box;
+`
+
+const ImageContainer = styled.div`
+  width: 200px;
+  height: 200px;
+
+
   position: relative;
   cursor: pointer;
+  display: flex;
+  justify-content: center;
 
   @media (max-width: 430px) {
     width: 140px;
     height: 140px;
 
     img {
+      display: block;
       width: 140px;
       height: 140px;
+
     }
+  }
+
+  img {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
   }
 `
 
 const Name = styled.div`
   width: 100%;
-  position: absolute;
-  bottom: 0px;
-  left: 0px;
   text-align: center;
-  font-weight: bold;
   padding-bottom: 4px;
   color: rgba(0, 0, 0, 0.7);
+  margin-top: 10px;
 
   @media (max-width: 430px) {
     font-size: 0.8em;
@@ -42,25 +57,16 @@ const Name = styled.div`
   }
 `
 
-const Count = styled.div`
-  position: absolute;
-  top: 0;
-  right: 0;
-  font-weight: bold;
-  padding: 10px;
-  color: rgba(0, 0, 0, 0.7);
-`
-
 export default function Tile(props: Props) {
-  const imgUrl = `https://res.cloudinary.com/adventcalendar/image/upload/w_200/miniatures/${props.mini.fileName}`
+  const imgUrl = `https://res.cloudinary.com/adventcalendar/image/upload/w_200,h_200,c_limit/books/${props.mini.fileName}`
   const handleClick = useCallback(() => props.onClick(props.mini.fileName), [])
   return (
     <TileContainer onClick={handleClick}>
-      <img src={imgUrl} loading="lazy" alt={props.mini.name}/>
+      <ImageContainer>
+        <img src={imgUrl} loading="lazy" alt={props.mini.name}/>
+      </ImageContainer>
       <Name>{props.mini.name}</Name>
-      {props.mini.count > 1 && (
-        <Count>{props.mini.count}x</Count>
-      )}
     </TileContainer>
+
   )
 }
