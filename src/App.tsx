@@ -44,6 +44,10 @@ const FullImage = styled.div`
   }
 `
 
+const SectionHeader = styled.h3`
+  text-align: center;
+`
+
 function App() {
   const [query, setQuery] = useState("")
   const [fullImage, setFullImage] = useState<Book | null>(null)
@@ -72,18 +76,65 @@ function App() {
     })
     .filter(a => a.name.toLowerCase().includes(query.toLowerCase()))
 
+    const sections = dataToShow.reduce<{
+      [key: string]: Book[]
+    }>((acc, item: Book) => {
+      if (item.system === "D&D 5e") {
+        return {
+          ...acc,
+          dnd5e: [...acc.dnd5e, item]
+        }
+      }
+      if (item.system === "Call of Cthulhu") {
+        return {
+          ...acc,
+          coc: [...acc.coc, item]
+        }
+      }
+      if (item.system === "OSR") {
+        return {
+          ...acc,
+          osr: [...acc.osr, item]
+        }
+      }
+      return {
+        ...acc,
+        other: [...acc.other, item]
+      }
+    }, {
+      dnd5e: [],
+      coc: [],
+      osr: [],
+      other: []
+    })
+
+  const titleMapping: { [key: string]: string } = {
+    dnd5e: "D&D 5e",
+    coc: "Call of Cthulhu",
+    osr: "Old School RPG",
+    other: "Egyéb"
+  }
+
   return (
     <div>
       <Search type="search" value={query} onChange={handleInputChange} placeholder="Search..." />
-      <Container>
-        {dataToShow.map((mini: Book) => (
-          <Tile
-            mini={mini}
-            key={mini.fileName}
-            onClick={handleTileClick}
-          />
+
+        {Object.keys(sections).map((sectionKey: string) => (
+          sections[sectionKey].length > 0 ?
+          <>
+            <SectionHeader>{titleMapping[sectionKey]}</SectionHeader>
+            <Container>
+              {sections[sectionKey].map((item: Book) => (
+                <Tile
+                  mini={item}
+                  key={item.fileName}
+                  onClick={handleTileClick}
+                />
+              ))}
+            </Container>
+
+          </> : null
         ))}
-      </Container>
       {fullImage && (
         <FullImage onClick={handleCancel}>
           <img src={`https://res.cloudinary.com/adventcalendar/image/upload/books/${fullImage.fileName}`} alt={fullImage.fileName} />

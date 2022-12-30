@@ -370,5 +370,17 @@
         "name": "Fiend Folio",
         "system": "Régebbi D&D",
         "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "sotdq_cover-625x800_jdft2f.png",
+        "name": "Dragonlance - Shadow of the Dragon Queen",
+        "system": "D&D 5e",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "0307f875-06bd-4cbf-a2f8-00fb3776571d.b0f32c5638a6aae6ec663679f5e9eab4_vr5tid.jpg",
+        "name": "DM Screen: Waterdeep: Dragon Heist",
+        "system": "D&D 5e",
+        "type": "Accessory"
     }
 ]
