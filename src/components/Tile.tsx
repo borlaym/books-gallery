@@ -13,8 +13,12 @@ const TileContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: center;
   box-sizing: border-box;
+
+  @media (max-width: 430px) {
+    margin: 10px 0;
+  }
 `
 
 const ImageContainer = styled.div`
@@ -32,10 +36,8 @@ const ImageContainer = styled.div`
     height: 140px;
 
     img {
-      display: block;
-      width: 140px;
       height: 140px;
-
+      width: auto;
     }
   }
 
