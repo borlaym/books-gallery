@@ -259,7 +259,7 @@
     },
     {
         "fileName": "380973_zn9scp.jpg",
-        "name": "Heretic",
+        "name": "Mork Borg: Heretic",
         "system": "OSR",
         "type": "Rules / Supplement"
     },
@@ -382,5 +382,41 @@
         "name": "DM Screen: Waterdeep: Dragon Heist",
         "system": "D&D 5e",
         "type": "Accessory"
+    },
+    {
+        "fileName": "380978_zbgp5g.jpg",
+        "name": "Mork Borg: DM Screen",
+        "system": "OSR",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "328612_hvxomf.jpg",
+        "name": "Mork Borg: Feretory",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "Acquisitions-Incorporated-cover_d1toi2.jpg",
+        "name": "Acquisitions Incorporated",
+        "system": "D&D 5e",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "91pGk4Gz5RL_mcbc9a.jpg",
+        "name": "Ghosts of Saltmarsh",
+        "system": "D&D 5e",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "gale-force-9-dungeons-and-dragons-dm-screen-of-shi_o262ok.png",
+        "name": "DM Screen: Of Ships and the Sea",
+        "system": "D&D 5e",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "Pulp_Cthulhu_Cover_for_Adcopy__63811.1520656949_zsracl.jpg",
+        "name": "Pulp Cthulhu",
+        "system": "Call of Cthulhu",
+        "type": "Rules / Supplement"
     }
 ]
