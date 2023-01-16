@@ -91,6 +91,12 @@ function App() {
           coc: [...acc.coc, item]
         }
       }
+      if (item.system === "Kult") {
+        return {
+          ...acc,
+          kult: [...acc.kult, item]
+        }
+      }
       if (item.system === "OSR") {
         return {
           ...acc,
@@ -105,6 +111,7 @@ function App() {
       dnd5e: [],
       coc: [],
       osr: [],
+      kult: [],
       other: []
     })
 
@@ -112,6 +119,7 @@ function App() {
     dnd5e: "D&D 5e",
     coc: "Call of Cthulhu",
     osr: "Old School RPG",
+    kult: "Kult",
     other: "Egyéb"
   }
 

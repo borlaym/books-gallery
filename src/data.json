@@ -418,5 +418,77 @@
         "name": "Pulp Cthulhu",
         "system": "Call of Cthulhu",
         "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "muh050574_l_sygkkx.jpg",
+        "name": "Taroticum and Other Tales",
+        "system": "Kult",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "1-560_x3xdva.jpg",
+        "name": "Kult: Divinity Lost Core Rules",
+        "system": "Kult",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "51MUCl3poEL_zx8of6.jpg",
+        "name": "The Black Madonna",
+        "system": "Kult",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "251267_pzbolb.png",
+        "name": "Kult: GM Screen",
+        "system": "Kult",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "81cNkDeurKL_prdvvd.jpg",
+        "name": "Van Richten's Guide to Ravenloft",
+        "system": "D&D 5e",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "81Me-r4UL1L_wa8qbn.jpg",
+        "name": "Tasha's Cauldron of Everything",
+        "system": "D&D 5e",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "393473_nhef9u.jpg",
+        "name": "CY_BORG",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "lazy_dm_workbook_cover_1224x_iojino.jpg",
+        "name": "The Lazy DM's Workbook",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "286792_ve2zpt.jpg",
+        "name": "Trilemma Adventures",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "297830_k1rdxe.jpg",
+        "name": "On Downtime And Demesnes",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "363024_prtbyx.png",
+        "name": "The Undying Sands",
+        "system": "Other",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "415836_p6hzeu.jpg",
+        "name": "The Bottled Sea",
+        "system": "Other",
+        "type": "Adventure"
     }
 ]
