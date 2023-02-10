@@ -2,7 +2,7 @@
   "name": "books-gallery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://borlaym.github.io/books-gallery",
+  "homepage": "http://konyv.vasesvarazs.hu",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
