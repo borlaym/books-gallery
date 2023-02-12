@@ -3,6 +3,7 @@ import Tile from './components/Tile';
 import data from './data.json'
 import { Book } from './types';
 import styled from '@emotion/styled'
+import logo from './logo.png'
 
 const Container = styled.div`
   display: flex;
@@ -42,6 +43,19 @@ const FullImage = styled.div`
     cursor: pointer;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
   }
+`
+
+const Logo = styled.img`
+  max-height: 200px;
+  max-width: 90%;
+  margin: 10px auto;
+  display: block;
+`
+
+const Description = styled.p`
+  text-align: center;
+  max-width: 400px;
+  margin: 10px auto;
 `
 
 const SectionHeader = styled.h3`
@@ -133,6 +147,8 @@ function App() {
 
   return (
     <div>
+      <Logo src={logo} />
+      <Description>Itt megtalálod klubunk könyv gyűjteményét! A lista folyamatosan bővül, a friss érkezésekért kövesd <a href="https://www.facebook.com/vas.es.varazs">facebook oldalunkat</a>!</Description>
       <Search type="search" value={query} onChange={handleInputChange} placeholder="Search..." />
 
         {Object.keys(sections).map((sectionKey: string) => (
