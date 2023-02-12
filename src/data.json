@@ -490,5 +490,35 @@
         "name": "The Bottled Sea",
         "system": "Other",
         "type": "Adventure"
+    },
+    {
+        "fileName": "Keeper_Tips_-_Front_Cover_-_700x900__38529.1646646406_euopph.jpg",
+        "name": "Keeper Tips",
+        "system": "Call of Cthulhu",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "Death-in-Space-RPG_vfuznh.jpg",
+        "name": "Death in Space",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "Regency_-_Front_Cover_-_700x912__78929.1666648519_bgruj6.png",
+        "name": "Regency Cthulhu",
+        "system": "Call of Cthulhu",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "j_C3_A1t_C3_A9kosokk_C3_B6nyve_erk5gc.jpg",
+        "name": "Játékosok Könyve",
+        "system": "Régebbi D&D",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "hn-dmg_storeu.jpg",
+        "name": "Kalandmesterek Könyve",
+        "system": "Régebbi D&D",
+        "type": "Rules / Supplement"
     }
 ]

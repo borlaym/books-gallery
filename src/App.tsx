@@ -103,6 +103,12 @@ function App() {
           osr: [...acc.osr, item]
         }
       }
+      if (item.system === "Régebbi D&D") {
+        return {
+          ...acc,
+          olderDnD: [...acc.olderDnD, item]
+        }
+      }
       return {
         ...acc,
         other: [...acc.other, item]
@@ -112,6 +118,7 @@ function App() {
       coc: [],
       osr: [],
       kult: [],
+      olderDnD: [],
       other: []
     })
 
@@ -120,6 +127,7 @@ function App() {
     coc: "Call of Cthulhu",
     osr: "Old School RPG",
     kult: "Kult",
+    olderDnD: "Régebbi D&D",
     other: "Egyéb"
   }
 
