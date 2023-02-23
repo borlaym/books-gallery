@@ -14,11 +14,11 @@ const Container = styled.div`
 
 const Search = styled.input`
   width: 300px;
-  padding: 10px;
+  padding: 5px;
   display: block;
   margin: 30px auto;
-  border-radius: 10px;
   font-size: 20px;
+  outline: none;
 `
 
 const FullImage = styled.div`
@@ -149,7 +149,7 @@ function App() {
     <div>
       <Logo src={logo} />
       <Description>Itt megtalálod klubunk könyv gyűjteményét! A lista folyamatosan bővül, a friss érkezésekért kövesd <a href="https://www.facebook.com/vas.es.varazs">facebook oldalunkat</a>!</Description>
-      <Search type="search" value={query} onChange={handleInputChange} placeholder="Search..." />
+      <Search type="search" value={query} onChange={handleInputChange} placeholder="Keresés..." />
 
         {Object.keys(sections).map((sectionKey: string) => (
           sections[sectionKey].length > 0 ?
