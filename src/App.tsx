@@ -117,6 +117,12 @@ function App() {
           osr: [...acc.osr, item]
         }
       }
+      if (item.system === "Old School Essentials") {
+        return {
+          ...acc,
+          ose: [...acc.ose, item]
+        }
+      }
       if (item.system === "Régebbi D&D") {
         return {
           ...acc,
@@ -130,6 +136,7 @@ function App() {
     }, {
       dnd5e: [],
       coc: [],
+      ose: [],
       osr: [],
       kult: [],
       olderDnD: [],
@@ -139,6 +146,7 @@ function App() {
   const titleMapping: { [key: string]: string } = {
     dnd5e: "D&D 5e",
     coc: "Call of Cthulhu",
+    ose: "Old School Essentials",
     osr: "Old School RPG",
     kult: "Kult",
     olderDnD: "Régebbi D&D",

@@ -284,7 +284,7 @@
     {
         "fileName": "279183_fs4kpn.jpg",
         "name": "Old-School Essentials: Classic Fantasy Rules Tome",
-        "system": "OSR",
+        "system": "Old School Essentials",
         "type": "Rules / Supplement"
     },
     {
@@ -519,6 +519,96 @@
         "fileName": "hn-dmg_storeu.jpg",
         "name": "Kalandmesterek Könyve",
         "system": "Régebbi D&D",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "1558087664_kxbajf.jpg",
+        "name": "The Two-Headed Serpent",
+        "system": "Call of Cthulhu",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "918UQ0QMMTL_hhyags.jpg",
+        "name": "Fizban's Treasury of Dragons",
+        "system": "D&D 5e",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "kult-beyond-darkness-and-madness-std-ed-kult-helmgast-386710_maegnu.jpg",
+        "name": "Beyond Darkness and Madness",
+        "system": "Kult",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "wintdau_wwlnwo.jpg",
+        "name": "Winter's Daughter",
+        "system": "Old School Essentials",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "Thumbnail_16a5ef7e-a273-4be6-ad95-d2c45cc30ef3_wm8u8b.jpg",
+        "name": "The Isle of the Plangent mage",
+        "system": "Old School Essentials",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "Thumbnail_9c4f66e4-52b3-4c6c-b07a-cb7bc4109ec4_zvppdw.jpg",
+        "name": "The Incandescent Grottoes",
+        "system": "Old School Essentials",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "Thumbnail_phjx6t.jpg",
+        "name": "The Hole in the Oak",
+        "system": "Old School Essentials",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "289650_sxhmmr.jpg",
+        "name": "Referee Screen",
+        "system": "Old School Essentials",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "ose__93202.1671494040_xl3vpu.jpg",
+        "name": "Classic Game Set",
+        "system": "Old School Essentials",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "AdvancedBoxMockup_1512x_f8a3abf6-1c62-4353-9b37-467279675609_600x_ydjbb1.png",
+        "name": "Advanced Expansion Set",
+        "system": "Old School Essentials",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "363966_wzndwm.jpg",
+        "name": "Holy Mountain Shaker",
+        "system": "Old School Essentials",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "Thumbnail_f7bdba5b-f46e-420d-9d1d-bbd41afafd2c_gxkuhc.jpg",
+        "name": "Halls of the Blood King",
+        "system": "Old School Essentials",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "2a42a1_ea26523fb50f4104aa52dfa786942c02_mv2_fkugob.png",
+        "name": "Carcass Crawler Issue #3",
+        "system": "Old School Essentials",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "393210_fx1xg5.jpg",
+        "name": "Carcass Crawler Issue #2",
+        "system": "Old School Essentials",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "carcass_20crawler_20_231_menihj.png",
+        "name": "Carcass Crawler Issue #1",
+        "system": "Old School Essentials",
         "type": "Rules / Supplement"
     }
 ]

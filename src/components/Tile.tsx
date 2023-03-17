@@ -17,6 +17,7 @@ const TileContainer = styled.div`
   box-sizing: border-box;
 
   @media (max-width: 430px) {
+    width: 180px;
     margin: 10px 0;
   }
 `
