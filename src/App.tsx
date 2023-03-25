@@ -67,7 +67,13 @@ function App() {
   const [fullImage, setFullImage] = useState<Book | null>(null)
 
   const handleInputChange = useCallback((event: React.ChangeEvent<HTMLInputElement>) => {
-    setQuery(event.target.value)
+    let value = event.target.value
+    setQuery(value)
+    if (value !== "") {
+      gtag('event', 'search', {
+        "v": event.target.value
+      });
+    }
   }, [])
 
   const handleTileClick = useCallback((fileName: string) => {
