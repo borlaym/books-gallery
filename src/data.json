@@ -730,5 +730,155 @@
         "name": "Kingmaker",
         "system": "Other",
         "type": "Adventure"
+    },
+    {
+        "fileName": "Wilderness-Kit-cover-square_cnbywz.jpg",
+        "name": "Dungeon Master's Screen Wilderness Kit",
+        "system": "D&D 5e",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "366519_wwd7ou.jpg",
+        "name": "Index Card RPG",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "170689_gtcgsz.jpg",
+        "name": "Blades in the Dark",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "51Sos6wcIQL._AC_UF894_1000_QL80__utiw8l.jpg",
+        "name": "Adventure Anthology: Death",
+        "system": "LotFP",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "61Aods_b9yL._AC_UF894_1000_QL80__eteyej.jpg",
+        "name": "Adventure Anthology: Death",
+        "system": "LotFP",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "image-22_garpah.png",
+        "name": "The Staffordshire Trading Company Works of John Williams",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "513RmIuCi-L_m9riu5.jpg",
+        "name": "Death Frost Doom",
+        "system": "LotFP",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "320334_ftodp3.jpg",
+        "name": "Adventure Anthology: Blood",
+        "system": "LotFP",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "DD-Art-and-Arcan-Regular-Edition-book-cover-1200x1574_gkqxor.jpg",
+        "name": "Art & Arcana",
+        "system": "Other",
+        "type": "Other"
+    },
+    {
+        "fileName": "369377_vldpk9.png",
+        "name": "Delver issues 1-7",
+        "system": "Old School Essentials",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "410008_tfcy6y.jpg",
+        "name": "Delver: Lost Artifacts",
+        "system": "Old School Essentials",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "410013_qhhqvg.jpg",
+        "name": "Delver: Lost Hirelings",
+        "system": "Old School Essentials",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "410018_nloqiw.jpg",
+        "name": "Delver: Lost Adventures",
+        "system": "Old School Essentials",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "410002_bhsdra.jpg",
+        "name": "Delver: Lost Pages",
+        "system": "Old School Essentials",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "419533_ksezxv.png",
+        "name": "Aberrant Reflections",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "Haunted_Almanac_RPG_Hardcover_fkg60r.png",
+        "name": "Haunted Almanach",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "358825_wj18g4.png",
+        "name": "In the Shadow of Tower Silveraxe",
+        "system": "Old School Essentials",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "manti_hr21ly.jpg",
+        "name": "Through the Valley of the Manticore",
+        "system": "Old School Essentials",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "boxset_1024x1024_2x_uijjg4.jpg",
+        "name": "Mausritter",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "403325_lib1rr.png",
+        "name": "Vaults of Vaarn",
+        "system": "OSR",
+        "type": "Campaign Setting"
+    },
+    {
+        "fileName": "291774_qautww.jpg",
+        "name": "Magical Industrial Revolution",
+        "system": "Other",
+        "type": "Campaign Setting"
+    },
+    {
+        "fileName": "ProductImages28_rl598h.jpg",
+        "name": "Roll & Play: Fantasy Character Kit",
+        "system": "Other",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "RollPlay_FrontCover_Blue_elldtl.png",
+        "name": "Roll & Play: Game Master's Fantasy Toolkit",
+        "system": "Other",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "ProductImages63_qakuc7.jpg",
+        "name": "Roll & Play: Game Master's Sci-fi Toolkit",
+        "system": "Other",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "ProductImages66_jlktbj.jpg",
+        "name": "Roll & Play: Sci-fi Character Kit",
+        "system": "Other",
+        "type": "Accessory"
     }
 ]
