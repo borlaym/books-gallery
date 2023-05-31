@@ -135,6 +135,12 @@ function App() {
           olderDnD: [...acc.olderDnD, item]
         }
       }
+      if (item.system === "LotFP") {
+        return {
+          ...acc,
+          lotfp: [...acc.lotfp, item]
+        }
+      }
       return {
         ...acc,
         other: [...acc.other, item]
@@ -143,6 +149,7 @@ function App() {
       dnd5e: [],
       coc: [],
       ose: [],
+      lotfp: [],
       osr: [],
       kult: [],
       olderDnD: [],
@@ -153,6 +160,7 @@ function App() {
     dnd5e: "D&D 5e",
     coc: "Call of Cthulhu",
     ose: "Old School Essentials",
+    lotfp: "Lamentations of the Flame Princess",
     osr: "Old School RPG",
     kult: "Kult",
     olderDnD: "Régebbi D&D",
