@@ -1000,5 +1000,29 @@
         "name": "Weird Fates vol 1.",
         "system": "OSR",
         "type": "Adventure"
+    },
+    {
+        "fileName": "Studio_Session-019-Edit__20380.1659237791_o11mia.jpg",
+        "name": "The Dark of Hot Springs Island",
+        "system": "Other",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "Field-Guide-900px_swvmao.png",
+        "name": "A Field Guide to Hot Springs Island",
+        "system": "Other",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "mockup-box-7c01b23f3c95d3be1935f8ee0c0a41d7_tsxhhe.png",
+        "name": "Mausritter: The Estate",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "312481_rqvtwo.png",
+        "name": "Deep Carbon Observatory",
+        "system": "LotFP",
+        "type": "Adventure"
     }
 ]
