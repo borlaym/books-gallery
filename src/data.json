@@ -1024,5 +1024,83 @@
         "name": "Deep Carbon Observatory",
         "system": "LotFP",
         "type": "Adventure"
+    },
+    {
+        "fileName": "357799_rgyuse.jpg",
+        "name": "Tomb Robbers of the Crystal Frontier",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "293976_ozyka8.jpg",
+        "name": "Alien RPG",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "320115_ijt5t9.jpg",
+        "name": "Alien RPG Starter Set",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "320111_wwv2gq.jpg",
+        "name": "Alien RPG Destroyer of Worlds",
+        "system": "Other",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "399929_zqx9a2.jpg",
+        "name": "Blade Runner RPG",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "399964_ktfdpg.jpg",
+        "name": "Blade Runner RPG Starter Set",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "blade-runner-rpg-game-runner-screen_kmprgb.png",
+        "name": "Blade Runner RPG Screen",
+        "system": "Other",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "370267_vzlza3.jpg",
+        "name": "The One Ring RPG",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "the-one-ring-starter-set-the-one-ring-free-league-publishing-966822_y20ifj.jpg",
+        "name": "The One Ring RPG Starter Set",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "370373_chzag8.jpg",
+        "name": "The One Ring RPG Screen",
+        "system": "Other",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "91o_lU2OHHL._AC_UF894_1000_QL80__oocf58.jpg",
+        "name": "Tales from the Loop RPG",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "rulebook_coriolis_eng_PLANO_i6xef6.jpg",
+        "name": "Coriolis",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "163293_y5z0cg.jpg",
+        "name": "Symbaroum",
+        "system": "Other",
+        "type": "Rules / Supplement"
     }
 ]
