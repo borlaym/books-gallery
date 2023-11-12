@@ -1228,5 +1228,101 @@
         "name": "Dungeon World",
         "system": "Other",
         "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "246471_vf5xcr",
+        "name": "Black Pudding: Volume One",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "199316336_dqbtin",
+        "name": "Bestiarium Hungaricum",
+        "system": "Other",
+        "type": "Other"
+    },
+    {
+        "fileName": "Erillion_borito_mwnfcm",
+        "name": "Kard és Mágia: Kalandok Földje, Erillion",
+        "system": "OSR",
+        "type": "Campaign Setting"
+    },
+    {
+        "fileName": "covers_826233_kizq3b",
+        "name": "Kard és Mágia",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "Meseloi-Iranyelvek-Kard-es-Magia-2.-kiadas_y06swo",
+        "name": "Kard és Mágia: Mesélői irányelvek",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "EMDT-54-Gyilkos-holmik-Nagy-Matyas_alfexo",
+        "name": "Gyilkos Holmik",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "Vashundara-baja-Varga-Zsolt_qxkdhf",
+        "name": "Vashundara Bája",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "bekak_kolostora_borito_nakd6y",
+        "name": "A Békák Kolostora",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "41QDStzw8SL._AC_UF1000_1000_QL80__xhfz2z",
+        "name": "The Burning Wheel",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "448930_cbk2mw",
+        "name": "Miseries & Misfortunes",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "image_12_atqv1t",
+        "name": "Miseries & Misfortunes: Les Fruits Malheureux",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "331670_je0upk",
+        "name": "Acid Death Fantasy",
+        "system": "Other",
+        "type": "Campaign Setting"
+    },
+    {
+        "fileName": "slate-chalcedony-pre-order-449-p_large_gavelz",
+        "name": "Slate & Chalchedony",
+        "system": "Other",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "269791_b0jbbm",
+        "name": "Troika!",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "dnd_planescape_flgs_product_shot_n4bo76",
+        "name": "Planescape: Adventures in the Multiverse",
+        "system": "D&D 5e",
+        "type": "Campaign Setting"
+    },
+    {
+        "fileName": "img_7694-jpeg.288465_gw6o4f",
+        "name": "Phandelver and Below: The Shattered Obelisk Legendary Editio",
+        "system": "D&D 5e",
+        "type": "Adventure"
     }
 ]
