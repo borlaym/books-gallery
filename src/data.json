@@ -1324,5 +1324,155 @@
         "name": "Phandelver and Below: The Shattered Obelisk Legendary Editio",
         "system": "D&D 5e",
         "type": "Adventure"
+    },
+    {
+        "fileName": "Giant-Book-of-Battle-Mats-Revised-Front-Cover_1423x_dkm7mz",
+        "name": "Giant Book of Battle Mats Revised",
+        "system": "Other",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "GBoBMv2-Front-Cover_1_1_1_711x_ahin78",
+        "name": "Giant Book of Battle Mats Volume II.",
+        "system": "Other",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "Front_Cover_Giant_Book_V3_m6ruxb",
+        "name": "Giant Book of Battle Mats Volume III.",
+        "system": "Other",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "Big-Book-Rooms-Vaults-Chambers-Front-Cover_1200x1200_yhlm1n",
+        "name": "Big Book of Battle Mats: Rooms, Vaults & Chambers",
+        "system": "Other",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "55FTEXZ_elwmpk",
+        "name": "Book of Battle Mats: Towns & Taverns",
+        "system": "Other",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "GMG5130_DCC_TomeAdventureV1_cover_harnrq",
+        "name": "Dungeon Crawl Classics: Tome of Adventure Vol. 1",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "How-To-Write-Adventure-Modules-1_wcag8b",
+        "name": "How to Write Adventure Modules That Don't Suck",
+        "system": "Other",
+        "type": "Other"
+    },
+    {
+        "fileName": "CO_BookPromo_Schmidt_Candela_Book_3883_1200x120002_u6jrny",
+        "name": "Candela Obscura Core Rulebook",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "M.A.G.U.S.-Elso-Torvenykonyv-Gyujtoi-kiadas_tk02n4",
+        "name": "M.A.G.U.S. Első Törvénykönyv Gyűjtői Kiadás",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "BenightedBetrothalCOVER_1200x1200_hr6qyq",
+        "name": "Benighted Bethrothal",
+        "system": "Other",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "71OL4QQCcfL._AC_UF1000_1000_QL80__ifwuid",
+        "name": "Fronds of Benevolence",
+        "system": "Other",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "369373_hb1rf8",
+        "name": "Vast Grimm",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "202154733_ivlhoo",
+        "name": "Vast Grimm: Space Raiders",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "459828_wxgnha",
+        "name": "Vast Grimm: Space Cruisers",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "458959_dus2ut",
+        "name": "Vast Grimm: Blood Altared",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "RPG-S04_1024x1024_2x_70027ed9-dc95-4a2e-9d6c-9d6c687849e9_vlh44a",
+        "name": "Vast Grimm: Badass GM Screen",
+        "system": "OSR",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "I_Want_Your_Skulls_cover_low_fwakla",
+        "name": "Vast Grimm: I Want Your Skulls",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "63325352_barbpw",
+        "name": "Vast Grimm: Into the Wurmhole",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "390908_vrj9gs",
+        "name": "Vast Grimm: Adventures in the Volatile Verse",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "Beyond_the_Mountains_of_Madness_-_Front_Cover_-_700x900__83127.1611163915_vwvljj",
+        "name": "Beyond the Mountains of Madness",
+        "system": "Call of Cthulhu",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "EMDT-89-A-Mult-es-Jelen-Halojaban-Kazamatak-es-Kompaniak_dcsmn1",
+        "name": "A Múlt és Jelen Hálójában",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "EMDT88_cover_SML2_uvozco",
+        "name": "Történetek a Tavernából",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "GMG5070T-Softcover-CoverA_lgisxd",
+        "name": "Dungeon Crawl Classics",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "dcc_dyingearth_cover_sr-jpg.120251_cxm9p3",
+        "name": "Dungeon Crawl Classics: Dying Earth",
+        "system": "OSR",
+        "type": "Campaign Setting"
+    },
+    {
+        "fileName": "GMG5280__93331.1693962764_ssxmkn",
+        "name": "Dungeon Crawl Classics: Dying Earth Kickstarter Collection",
+        "system": "OSR",
+        "type": "Campaign Setting"
     }
 ]
