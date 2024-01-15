@@ -1474,5 +1474,83 @@
         "name": "Dungeon Crawl Classics: Dying Earth Kickstarter Collection",
         "system": "OSR",
         "type": "Campaign Setting"
+    },
+    {
+        "fileName": "shadowdark_sd3032",
+        "name": "Shadowdark",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "GM_Screen_Final_Drawing_Elongated_uwxxyz",
+        "name": "Shadowdark GM Screen",
+        "system": "OSR",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "pic7142559_jusiyk",
+        "name": "Shadowdark: Cursed Scroll #1",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "1703187985_rawocy",
+        "name": "Shadowdark: Cursed Scroll #2",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "CursedScrollZineVol3MidnightSunDigitalPDF_ShadowdarkRPG_Cover_1200x_qtaliv",
+        "name": "Shadowdark: Cursed Scroll #3",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "CHA4028_-_RuneQuest_-_Roleplaying_in_Glorantha_-_Front_Cover__15166.1536488915_s5o7rp",
+        "name": "RuneQuest Roleplaying in Glorantha",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "71Cf7BW7WRL._AC_UF1000_1000_QL80__giw5qd",
+        "name": "RuneQuest Glorantha Bestiary",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "7194NL30WgL._AC_UF1000_1000_QL80__vpqxqq",
+        "name": "RuneQuest Gamemaster Screen Pack",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "RQ2_front_cover_900_wide__57607.1457569307.1280.1280__91579.1518323366_fzwcvl",
+        "name": "RuneQuest Classic",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "71wcB7ClWOL._AC_UF1000_1000_QL80__yvcv2u",
+        "name": "Pendragon Starter Set",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "410316_ozmodg",
+        "name": "Brindlewood Bay",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "424072_xoxvyk",
+        "name": "Brindlewood Bay: Nephews in Peril",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "308789_yvxq0i",
+        "name": "Castle Xyntillan",
+        "system": "OSR",
+        "type": "Adventure"
     }
 ]
