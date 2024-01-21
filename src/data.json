@@ -1552,5 +1552,71 @@
         "name": "Castle Xyntillan",
         "system": "OSR",
         "type": "Adventure"
+    },
+    {
+        "fileName": "pic7559254_t5tyet",
+        "name": "Reach of the Roach God",
+        "system": "Other",
+        "type": "Campaign Setting"
+    },
+    {
+        "fileName": "forge_of_foes_cover_big_530x_2x_xrxkwk",
+        "name": "The Lazy DM's Workbook",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "456393_fsjgyk",
+        "name": "The Scourge of Northland",
+        "system": "Old School Essentials",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "226996_xqdqjd",
+        "name": "Stars Without Number",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "The_Great_Pendragon_Campaign_-_Front_Cover__43347.1539575002_vt0qhl",
+        "name": "The Great Pendragon Campaign",
+        "system": "Other",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "298057_hahsep",
+        "name": "A Rasp of Sand",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "synthetic-dream-machine-there-a-red-door-zine-623510_600x_ikqx9w",
+        "name": "There, a Red Door",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "437630_w3admd",
+        "name": "Eternal Return Key",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "464352_i6mxlx",
+        "name": "Magitecnica",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "307236_juo2yo",
+        "name": "Planar Compass",
+        "system": "Old School Essentials",
+        "type": "Campaign Setting"
+    },
+    {
+        "fileName": "426452_hemm8f",
+        "name": "Planar Compass",
+        "system": "Old School Essentials",
+        "type": "Campaign Setting"
     }
 ]
