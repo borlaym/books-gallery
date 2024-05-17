@@ -141,6 +141,12 @@ function App() {
           lotfp: [...acc.lotfp, item]
         }
       }
+      if (item.system === "Mothership") {
+        return {
+          ...acc,
+          mothership: [...acc.mothership, item]
+        }
+      }
       return {
         ...acc,
         other: [...acc.other, item]
@@ -151,6 +157,7 @@ function App() {
       ose: [],
       lotfp: [],
       osr: [],
+      mothership: [],
       kult: [],
       olderDnD: [],
       other: []
@@ -162,6 +169,7 @@ function App() {
     ose: "Old School Essentials",
     lotfp: "Lamentations of the Flame Princess",
     osr: "Old School RPG",
+    mothership: "Mothership",
     kult: "Kult",
     olderDnD: "Régebbi D&D",
     other: "Egyéb"

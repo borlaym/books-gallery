@@ -1142,7 +1142,7 @@
     {
         "fileName": "eve0OvpCdCNigLZQEi9xIn9-xpVxLVNuruYR8IrPAn4_e1cnwf",
         "name": "Hull Breach",
-        "system": "Other",
+        "system": "Mothership",
         "type": "Rules / Supplement"
     },
     {
@@ -1618,5 +1618,101 @@
         "name": "Planar Compass",
         "system": "Old School Essentials",
         "type": "Campaign Setting"
+    },
+    {
+        "fileName": "91Iubsw1pBL._AC_UF1000_1000_QL80__aibgsk",
+        "name": "So You Want To Be A Game Master",
+        "system": "Other",
+        "type": "Other"
+    },
+    {
+        "fileName": "3180924_delta-vision-cthulhu-hivasa---az-orzo-szabalykonyve---alapkonyv_másolat_jvgqpv",
+        "name": "Cthulhu Hívása",
+        "system": "Call of Cthulhu",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "dungeons-lasers-the-world-of-deuslair-rpg-campaign_másolat_hn0pi4",
+        "name": "The World of Deuslair",
+        "system": "Other",
+        "type": "Campaign Setting"
+    },
+    {
+        "fileName": "dungeons-lasers-the-world-of-deuslair-bestiary-book-eng_srrycl",
+        "name": "The World of Deuslair: Bestiary",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "LTPFG5EHGTMH_nlvjbr",
+        "name": "Heliana's Guide to Monster Hunting",
+        "system": "D&D 5e",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "Capture-de_CC_81cran-2023-12-21-a_CC_80-12.43.58-600x857_w5whxc",
+        "name": "Knock! Issue 4",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "Eat-The-Reich-PDF-front-cover_wahnyw",
+        "name": "Eat the Reich",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "71VtjxQ5zCL._AC_UF1000_1000_QL80__udymvy",
+        "name": "Reign of Terror",
+        "system": "Call of Cthulhu",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "245017_dxz3ia",
+        "name": "Player's Survival Guide",
+        "system": "Mothership",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "1713690245_gqkrqi",
+        "name": "Warden's Operation Manual",
+        "system": "Mothership",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "1710776003_ru9u3u",
+        "name": "Unconfirmed Contacts Report",
+        "system": "Mothership",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "249108_wqgypu",
+        "name": "Dead Planet",
+        "system": "Mothership",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "288945_auicli",
+        "name": "A Pound of Flesh",
+        "system": "Mothership",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "332853_rzimgd",
+        "name": "Gradient Descent",
+        "system": "Mothership",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "366742_q57xrj",
+        "name": "Fallout Roleplaying Game",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "710mDoowN6L._AC_UF1000_1000_QL80__ijiw6d",
+        "name": "Pathfinder 2nd Edition Core Rulebook",
+        "system": "Other",
+        "type": "Rules / Supplement"
     }
 ]
