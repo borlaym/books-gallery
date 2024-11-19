@@ -1774,5 +1774,107 @@
         "name": "Traveller: The Pirates of Drinax",
         "system": "Other",
         "type": "Adventure"
+    },
+    {
+        "fileName": "image_mkktnv",
+        "name": "The Electrum Archive Issue #2",
+        "system": "Other",
+        "type": "Campaign Setting"
+    },
+    {
+        "fileName": "image_t1zbjq",
+        "name": "The Electrum Archive Issue #1",
+        "system": "Other",
+        "type": "Campaign Setting"
+    },
+    {
+        "fileName": "force-and-destiny-core-rulebook_e6lkq3",
+        "name": "Star Wars Force and Destiny",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "319291580_514167837357496_4025010966554197095_n_928x_gqesyx",
+        "name": "Star Wars Age of Rebellion",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "s-l640_x7puqn",
+        "name": "Star Wars Edge of the Empire",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "406583_m9wxp1",
+        "name": "CBR+PNK",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "400164_ied7de",
+        "name": "Errant",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "421868_imz2ge",
+        "name": "The Monster Overhaul",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "Szendrei-Tibor-Intuiciok-muveszeti-album_mjff4e",
+        "name": "Intuíciók",
+        "system": "Other",
+        "type": "Other"
+    },
+    {
+        "fileName": "arkham-horror-rpg-cover-art_gdjfal",
+        "name": "Arkham Horror The Roleplaying Game",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "preorder-2024-dungeon-masters-guide-dungeons-dragons-556686_obocnw",
+        "name": "Dungeon Master's Guide 2024",
+        "system": "D&D 5e",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "Screenshot-2024-05-16-181126_b7olhv",
+        "name": "Player's Handbook 2024",
+        "system": "D&D 5e",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "224803_kkvn7u",
+        "name": "Fever Swamp",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "image_282_29_mklmbo",
+        "name": "Art by Nohr",
+        "system": "Other",
+        "type": "Other"
+    },
+    {
+        "fileName": "91KRfoJrrSL._AC_UF894_1000_QL80__o4bsmq",
+        "name": "Playing at the World",
+        "system": "Other",
+        "type": "Other"
+    },
+    {
+        "fileName": "f2d3bdda4c9aae8d940846b37e628a72_fvrhtu",
+        "name": "Masterpieces of Fantasy Art",
+        "system": "Other",
+        "type": "Other"
+    },
+    {
+        "fileName": "2024-dungeons-dragons-dungeon-masters-screen-preorder-in-tabletop-role-playing-games-at-the-compleat-strategist-234437_r3sedw",
+        "name": "Dungeon Master's Screen 2024",
+        "system": "D&D 5e",
+        "type": "Accessory"
     }
 ]
