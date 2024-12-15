@@ -1876,5 +1876,53 @@
         "name": "Dungeon Master's Screen 2024",
         "system": "D&D 5e",
         "type": "Accessory"
+    },
+    {
+        "fileName": "pic8355844_zydc9b",
+        "name": "Tephrotic Nightmares",
+        "system": "OSR",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "hsdpsj8cpprhaq2jjzwz_800x_ci1sgx",
+        "name": "Portents of the Degloved Hand",
+        "system": "OSR",
+        "type": "Accessory"
+    },
+    {
+        "fileName": "MoriaTOR2eCover_qoxk5q",
+        "name": "Moria: Through the Doors of Durin",
+        "system": "Other",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "pic8127055_ynn7ei",
+        "name": "Original Adventures Reincarnated: Dark Tower",
+        "system": "Régebbi D&D",
+        "type": "Adventure"
+    },
+    {
+        "fileName": "OrkBorgCoverLarge_j6xd2f",
+        "name": "Ork Borg",
+        "system": "OSR",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "paranoiaredboxfront_1_432x_6be84885-51e2-403a-bb99-5385b83923de_uzrrna",
+        "name": "Paranoia: Red Clearance Edition",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "star-wars-eote-beg-2_dv9j8e",
+        "name": "Star Wars Edge of the Empire Beginner Game",
+        "system": "Other",
+        "type": "Rules / Supplement"
+    },
+    {
+        "fileName": "81pf0nUZU9L._AC_UF894_1000_QL80__ilswwf",
+        "name": "Game Wizards",
+        "system": "Other",
+        "type": "Other"
     }
 ]
